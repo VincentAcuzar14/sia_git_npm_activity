@@ -1,0 +1,17 @@
+{
+  "name": "sia_git_npm_activity",
+  "version": "1.0.0",
+  "description": "NPM and GIT activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Acuzar",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
